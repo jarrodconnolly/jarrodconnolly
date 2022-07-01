@@ -1,6 +1,8 @@
-### Hello, a little bit about me.
+## Hello :wave:
 
-You can find me at these locations:
+Jarrod is a Staff Software Engineer at Kabam Games Inc, where he builds services and systems for mobile gaming. Jarrod has been writing software professionally for over 20 years. He has architected and built software for mobile gaming, network security, web performance, and the real estate industry.
+
+## Social
 
 <a href="https://nestedquotes.ca/" target="_blank">
   <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=site">
@@ -13,3 +15,9 @@ You can find me at these locations:
 <a href="https://twitter.com/JarrodConnolly" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&labelColor=blue">
 </a>
+
+## Conference Speaking
+
+| Title | Conference | Date | Links |
+| --- | --- | --- | --- |
+| Writing a Compiler in Node.js using Streams | OpenJS World 2022 | 2022-06-08 | [Video](https://youtu.be/aPHf_-N2yTU) - [Slides](https://static.sched.com/hosted_files/openjsworld2022/78/OpenJSW%20World%202022.pdf) |
