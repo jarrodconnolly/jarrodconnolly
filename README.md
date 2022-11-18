@@ -16,6 +16,10 @@ Jarrod is a Staff Software Engineer at Kabam Games Inc, where he builds services
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&labelColor=blue">
 </a>
 
+<a rel="me" href="https://fosstodon.org/@jarrod">
+  <img src="https://img.shields.io/badge/Mastodon-blue?style=for-the-badge&logo=mastodon&labelColor=blue">
+</a>
+
 ## Conference Speaking
 
 | Title | Conference | Date | Links |
