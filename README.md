@@ -1,6 +1,6 @@
 ## Hello :wave:
 
-Jarrod is a Staff Software Engineer at Kabam Games Inc, where he builds services and systems for mobile gaming. Jarrod has been writing software professionally for over 20 years. He has architected and built software for mobile gaming, network security, web performance, and the real estate industry.
+Jarrod is a Principal Software Engineer at Phoenix Labs, where he builds services and systems for gaming. Jarrod has been writing software professionally for over 20 years. He has architected and built software for mobile gaming, network security, web performance, and the real estate industry.
 
 ## Social
 
