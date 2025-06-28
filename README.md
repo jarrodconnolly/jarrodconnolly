@@ -1,8 +1,10 @@
 ## Hello :wave:
 
-Principal Engineer | Engineering Leader | Conference Speaker
+Strategic Engineering Leader | Principal Architect | Conference Speaker
 
-I’m a Principal Software Engineer with over 25 years of building scalable, high-impact systems, from backend services for top mobile game studios to cutting-edge AI pipelines and patented web tech. I power massive-scale games with millions of players, lead teams to deliver excellence, and explore AI through a personal research project. With deep skills in Python, Node.js, and modern stacks, I drive innovation, tackle significant challenges, and contribute to my community through leadership roles and open-source work.
+A Principal Engineer and Strategic Engineering Leader with over 25 years of experience architecting and delivering high-impact, scalable systems across gaming, AI, and patented web technologies. Guiding cross-functional teams and departments, Jarrod shapes technical vision and roadmaps that align with strategic business objectives. His expertise spans deep technical innovation, cultivating high-performing engineering talent, and mentoring emerging leaders.
+
+Jarrod excels at driving organizational growth, optimizing processes across engineering groups, and translating complex technical strategies into tangible business outcomes. He consistently delivers excellence and fosters innovation.
 
 ## Social
 
