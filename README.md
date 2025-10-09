@@ -1,4 +1,4 @@
-## Hello :wave:
+## Jarrod Connolly
 
 Strategic Engineering Leader | Principal Architect | Conference Speaker
 
@@ -21,3 +21,11 @@ Jarrod excels at driving organizational growth, optimizing processes across engi
 | Title | Conference | Date | Links |
 | --- | --- | --- | --- |
 | Writing a Compiler in Node.js using Streams | OpenJS World 2022 | 2022-06-08 | [Video](https://youtu.be/aPHf_-N2yTU) - [Slides](https://static.sched.com/hosted_files/openjsworld2022/78/OpenJSW%20World%202022.pdf) |
+
+## Articles
+
+| Title | Date | Link |
+| --- | --- | --- |
+| HAL - Highly Adaptable Learning AI | 2025-03-18 | https://nestedquotes.ca/articles/highly-adaptable-learning/ |
+| Writing a Compiler in Node.js | 2024-05-31 | https://nestedquotes.ca/articles/compiler-nodejs/ |
+| Contributing to Node.js Core | 2021-02-13 | https://nestedquotes.ca/articles/nodejs-core-contribution/ |
