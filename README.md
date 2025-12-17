@@ -1,10 +1,10 @@
 ## Jarrod Connolly
 
-Strategic Engineering Leader | Principal Architect | Conference Speaker
+Strategic Engineering Leader | Principal Architect
 
-A Principal Engineer and Strategic Engineering Leader with over 25 years of experience architecting and delivering high-impact, scalable systems across gaming, AI, and patented web technologies. Guiding cross-functional teams and departments, Jarrod shapes technical vision and roadmaps that align with strategic business objectives. His expertise spans deep technical innovation, cultivating high-performing engineering talent, and mentoring emerging leaders.
+Jarrod Connolly is a strategic engineering leader and principal architect with over 25 years of experience building and scaling high-impact systems in gaming, AI, and patented web technologies. He has led teams of up to 15 engineers, including principals and managers, to deliver innovative solutions that drive business growth—from pioneering web platforms at startups like Tarasoft to optimizing infrastructures for millions of users at enterprises such as Kabam and Phoenix Labs. His expertise blends deep technical innovation, including R&D in RAG-based AI and compilers, with cultivating high-performing talent, mentoring emerging leaders, and aligning roadmaps to strategic objectives.
 
-Jarrod excels at driving organizational growth, optimizing processes across engineering groups, and translating complex technical strategies into tangible business outcomes. He consistently delivers excellence and fosters innovation.
+As Founder and CTO of Brightest Circle, Jarrod advises stealth-mode startups on technical vision and launches education-focused SaaS, while his open-source contributions to Node.js and speaking at OpenJS World demonstrate his commitment to community and distilling complex ideas for executives. Beyond tech, he chairs community boards, leading consensus-building and policy decisions that mirror engineering governance. Jarrod excels at driving efficiency—reducing toil, modernizing stacks for faster releases and security, and fostering collaborative cultures—consistently translating strategies into tangible outcomes.
 
 ## Social
 
