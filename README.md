@@ -1,31 +1,52 @@
-## Jarrod Connolly
+## Hi, I am Jarrod
 
-Strategic Engineering Leader | Principal Architect
+I build compilers, AI systems, and research platforms. I wrote a toy compiler in Node.js that now generates native code via LLVM and renders 3D graphics with SDL. I am working on a high-performance C++ tokenizer for terabyte-scale LLM training, an autonomous multi-agent K-12 learning system, and a document chunking research framework. I also contribute to Node.js core when I find gaps worth filling.
 
-Jarrod Connolly is a strategic engineering leader and principal architect with over 25 years of experience building and scaling high-impact systems in gaming, AI, and patented web technologies. He has led teams of 15+ engineers, including principals and managers, to deliver innovative solutions that drive business growth—from pioneering web platforms at startups like Tarasoft to optimizing infrastructures for millions of users at enterprises such as Kabam and Phoenix Labs. His expertise blends deep technical innovation, including R&D in RAG-based AI and compilers, with cultivating high-performing talent, mentoring emerging leaders, and aligning roadmaps to strategic objectives.
-
-As Founder and CTO of Brightest Circle, Jarrod advises stealth-mode startups on technical vision and launches education-focused SaaS, while his open-source contributions to Node.js and speaking at OpenJS World demonstrate his commitment to community and distilling complex ideas for executives. Beyond tech, he chairs community boards, leading consensus-building and policy decisions that mirror engineering governance. Jarrod excels at driving efficiency—reducing toil, modernizing stacks for faster releases and security, and fostering collaborative cultures—consistently translating strategies into tangible outcomes.
+I write about all of this at **[nestedquotes.ca](https://nestedquotes.ca)**.
 
 ## Social
 
 <a href="https://nestedquotes.ca/" target="_blank">
-  <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=site">
+  <img src="https://img.shields.io/badge/Website-nestedquotes.ca-blue?style=for-the-badge&logo=internet-explorer">
+</a>
+<a href="https://www.linkedin.com/in/jarrodconnolly/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-jarrodconnolly-blue?style=for-the-badge&logo=linkedin">
+</a>
+<a href="https://twitter.com/JarrodConnolly" target="_blank">
+  <img src="https://img.shields.io/badge/X-@JarrodConnolly-black?style=for-the-badge&logo=x">
+</a>
+<a href="https://github.com/jarrodconnolly" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-jarrodconnolly-181717?style=for-the-badge&logo=github">
+</a>
+<a href="https://orcid.org/0009-0001-6291-3388" target="_blank">
+  <img src="https://img.shields.io/badge/ORCID-0009--0001--6291--3388-a6ce39?style=for-the-badge&logo=orcid">
+</a>
+<a href="https://scholar.google.ca/citations?user=9GP3J9EAAAAJ" target="_blank">
+  <img src="https://img.shields.io/badge/Scholar-9GP3J9EAAAAJ-4285F4?style=for-the-badge&logo=google-scholar">
 </a>
 
-<a href="https://www.linkedin.com/in/jarrodconnolly/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue">
-</a>
+## Projects
+
+| Project | What it is |
+|---|---|
+| **[Complect](https://github.com/jarrodconnolly/complect)** | Toy compiler in Node.js. Custom language -> JavaScript via Babel AST or native binaries via LLVM IR. Functions, manual memory management, SDL graphics. |
+| **[HAL](https://github.com/jarrodconnolly/hal)** | AI assistant with a retro CRT aesthetic. RAG pipeline: PDF ingestion -> Qdrant vector search -> vLLM generation -> Tauri terminal UI. |
+| **SuperFlux** | High-performance C++ tokenizer for LLM training at terabyte scale. Streaming count-min sketches, batched merges, AVX2. Targeting 12-22 GB/s. |
+| **EDU** | Autonomous multi-agent AI learning system for K-12. Mastery-driven, no grade gates. Python, LangGraph, MongoDB, Redis, FastAPI. |
+| **Chunking Research** | Framework for comparing document chunking strategies in RAG systems. NDCG and TREC-standard evaluation against real Qdrant vector retrieval. |
+| **[Sequelize Slugify](https://github.com/jarrodconnolly/sequelize-slugify)** | Sequelize plugin that auto-generates unique URL slugs. PostgreSQL, MySQL, SQLite. |
 
 ## Conference Speaking
 
 | Title | Conference | Date | Links |
 | --- | --- | --- | --- |
-| Writing a Compiler in Node.js using Streams | OpenJS World 2022 | 2022-06-08 | [Video](https://youtu.be/aPHf_-N2yTU) - [Slides](https://static.sched.com/hosted_files/openjsworld2022/78/OpenJSW%20World%202022.pdf) |
+| Writing a Compiler in Node.js using Streams | OpenJS World 2022 | 2022-06-08 | [Video](https://youtu.be/aPHf_-N2yTU) · [Slides](https://static.sched.com/hosted_files/openjsworld2022/78/OpenJSW%20World%202022.pdf) |
 
 ## Articles
 
 | Title | Date | Link |
 | --- | --- | --- |
+| Compiler - A Backend | 2026-05-17 | https://nestedquotes.ca/articles/compiler-backend/ |
 | Vibe Coding - Style Over Substance | 2026-01-01 | https://nestedquotes.ca/articles/vibe-coding-style-over-substance/ |
 | HAL - Highly Adaptable Learning AI | 2025-03-18 | https://nestedquotes.ca/articles/highly-adaptable-learning/ |
 | Writing a Compiler in Node.js | 2024-05-31 | https://nestedquotes.ca/articles/compiler-nodejs/ |
