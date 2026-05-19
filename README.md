@@ -46,7 +46,8 @@ I write about all of this at **[nestedquotes.ca](https://nestedquotes.ca)**.
 
 | Title | Date | Link |
 | --- | --- | --- |
-| Compiler - A Backend | 2026-05-17 | https://nestedquotes.ca/articles/compiler-backend/ |
+| Compiler - Growing Up | 2026-05-18 | https://nestedquotes.ca/articles/compiler-growing-up/ |
+| Compiler - A Backend | 2026-04-03 | https://nestedquotes.ca/articles/compiler-backend/ |
 | Vibe Coding - Style Over Substance | 2026-01-01 | https://nestedquotes.ca/articles/vibe-coding-style-over-substance/ |
 | HAL - Highly Adaptable Learning AI | 2025-03-18 | https://nestedquotes.ca/articles/highly-adaptable-learning/ |
 | Writing a Compiler in Node.js | 2024-05-31 | https://nestedquotes.ca/articles/compiler-nodejs/ |
