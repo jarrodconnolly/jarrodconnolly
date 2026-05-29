@@ -31,7 +31,8 @@ I write about all of this at **[nestedquotes.ca](https://nestedquotes.ca)**.
 |---|---|
 | **[Complect](https://github.com/jarrodconnolly/complect)** | Toy compiler in Node.js. Custom language -> JavaScript via Babel AST or native binaries via LLVM IR. Functions, manual memory management, SDL graphics. |
 | **[HAL](https://github.com/jarrodconnolly/hal)** | AI assistant with a retro CRT aesthetic. RAG pipeline: PDF ingestion -> Qdrant vector search -> vLLM generation -> Tauri terminal UI. |
-| **SuperFlux** | High-performance C++ tokenizer for LLM training at terabyte scale. Streaming count-min sketches, batched merges, AVX2. Targeting 12-22 GB/s. |
+| **suBPEriod** | A clean, straight-forward C++ implementation of Byte Pair Encoding (BPE). |
+| **SuperFlux** | A novel high-performance C++ tokenizer for LLM training at terabyte scale. Streaming count-min sketches, batched merges, AVX2. Targeting 12-22 GB/s. |
 | **EDU** | Autonomous multi-agent AI learning system for K-12. Mastery-driven, no grade gates. Python, LangGraph, MongoDB, Redis, FastAPI. |
 | **Chunking Research** | Framework for comparing document chunking strategies in RAG systems. NDCG and TREC-standard evaluation against real Qdrant vector retrieval. |
 | **[Sequelize Slugify](https://github.com/jarrodconnolly/sequelize-slugify)** | Sequelize plugin that auto-generates unique URL slugs. PostgreSQL, MySQL, SQLite. |
