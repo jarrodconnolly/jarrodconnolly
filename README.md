@@ -47,6 +47,7 @@ I write about all of this at **[nestedquotes.ca](https://nestedquotes.ca)**.
 
 | Title | Date | Link |
 | --- | --- | --- |
+| Consuming Textbooks | 2026-05-28 | https://nestedquotes.ca/articles/consume-textbooks/ |
 | Compiler - Growing Up | 2026-05-18 | https://nestedquotes.ca/articles/compiler-growing-up/ |
 | Compiler - A Backend | 2026-04-03 | https://nestedquotes.ca/articles/compiler-backend/ |
 | Vibe Coding - Style Over Substance | 2026-01-01 | https://nestedquotes.ca/articles/vibe-coding-style-over-substance/ |
