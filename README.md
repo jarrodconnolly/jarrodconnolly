@@ -1,6 +1,6 @@
 ## Hi, I am Jarrod
 
-I build compilers, AI systems, and research platforms. I wrote a toy compiler in Node.js that now generates native code via LLVM and renders 3D graphics with SDL. I am working on a high-performance C++ tokenizer for terabyte-scale LLM training, an autonomous multi-agent K-12 learning system, and a document chunking research framework. I also contribute to Node.js core when I find gaps worth filling.
+I am building PAC Hub so parent volunteers can run a school year from one place. I also build compilers, AI systems, and research platforms. Complect is a toy compiler in Node.js that now generates native code via LLVM and renders graphics with SDL. Alongside that I have a C++ tokenizer for terabyte-scale LLM training, a document chunking research framework, and EDU, an autonomous multi-agent K-12 learning system. I contributed Date support to Node.js N-API.
 
 I write about all of this at **[nestedquotes.ca](https://nestedquotes.ca)**.
 
@@ -47,6 +47,9 @@ I write about all of this at **[nestedquotes.ca](https://nestedquotes.ca)**.
 
 | Title | Date | Link |
 | --- | --- | --- |
+| Tutorial Videos - Automated | 2026-08-21 | https://nestedquotes.ca/articles/automated-tutorial-videos/ |
+| Why I Am Building PAC Hub | 2026-07-01 | https://nestedquotes.ca/articles/why-pac-hub/ |
+| Chunking Technique Research | 2026-06-09 | https://nestedquotes.ca/articles/chunk-evaluation/ |
 | Consuming Textbooks | 2026-05-28 | https://nestedquotes.ca/articles/consume-textbooks/ |
 | Compiler - Growing Up | 2026-05-18 | https://nestedquotes.ca/articles/compiler-growing-up/ |
 | Compiler - A Backend | 2026-04-03 | https://nestedquotes.ca/articles/compiler-backend/ |
