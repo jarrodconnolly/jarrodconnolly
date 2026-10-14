@@ -47,6 +47,7 @@ I write about all of this at **[nestedquotes.ca](https://nestedquotes.ca)**.
 
 | Title | Date | Link |
 | --- | --- | --- |
+| suBPEriod - Byte Pair Encoding | 2026-09-24 | https://nestedquotes.ca/articles/subperiod-byte-pair-encoding/ |
 | Tutorial Videos - Automated | 2026-08-21 | https://nestedquotes.ca/articles/automated-tutorial-videos/ |
 | Why I Am Building PAC Hub | 2026-07-01 | https://nestedquotes.ca/articles/why-pac-hub/ |
 | Chunking Technique Research | 2026-06-09 | https://nestedquotes.ca/articles/chunk-evaluation/ |
